@@ -1,6 +1,6 @@
 # Weather
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+Practicing [Redux] with Stephen Grider's courses (https://www.udemy.com/react-redux/)?
 
 ### Getting Started
 
