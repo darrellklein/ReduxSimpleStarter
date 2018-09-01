@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 
+
 export default class SearchBar extends Component {
     constructor(props) {
         super(props);
@@ -15,6 +16,8 @@ export default class SearchBar extends Component {
 
     onFormSubmit(event) {
         event.preventDefault();
+        //Fetch weather API information
+
     }
 
     render() {
